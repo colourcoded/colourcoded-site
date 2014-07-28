@@ -1,4 +1,1 @@
-colourcoded-site
-================
-
-Colour Coded Site
+# Colour Coded Site
