@@ -7,4 +7,4 @@ set :deploy_to, "/home/kjung/websites/#{fetch(:application)}"
 # role :web, %w{deploy@example.com}
 # role :db,  %w{deploy@example.com}
 
-server '192.210.137.216', user: 'kjung', roles: [:app]
+server '192.210.137.216', user: 'root', roles: [:app]
